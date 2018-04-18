@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1775"
+   name=""
+   committed-date="2014-07-03T00:44:45.369875Z"
+   url="svn://10.43.10.7/12549-%E7%9C%81%E7%8E%AF%E4%BF%9D%E5%8E%85%E6%8E%92%E6%B1%A1%E6%9D%83%E4%BA%A4%E6%98%93/01_%E5%BC%80%E5%8F%91%E5%BA%93/02_%E9%9B%86%E6%88%90%E5%8C%BA/01_%E6%BA%90%E4%BB%A3%E7%A0%81/ETMP/WebRoot/etmp/js/JQuery_zTree/js"
+   last-author="lijun"
+   kind="dir"
+   uuid="7db4fa64-9716-f241-94ea-1da5f0743b9a"
+   repos="svn://10.43.10.7"
+   revision="5885"/>
+<entry
+   committed-rev="1775"
+   name="jquery.ztree.exedit-3.3.js"
+   text-time="2014-07-04T02:00:36.781250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="04d8814573015f6bca7232ebf6407bb0"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:36.703125Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.ztree.exedit-3.3.min.js"
+   text-time="2014-07-04T02:00:36.781250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="5360bfcb0acd88cfe482afde0751c51f"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:36.703125Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.ztree.exhide-3.3.js"
+   text-time="2014-07-04T02:00:36.796875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="b3f5d7c91aedbaad5631a14b9a5bfe50"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:36.718750Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.ztree.all-3.3.js"
+   text-time="2014-07-04T02:00:36.796875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="fb70065c73bb4408b4f3233c7dc563a9"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:36.718750Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.ztree.core-3.3.js"
+   text-time="2014-07-04T02:00:36.812500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="8489f10ec7d0ccbac8ab3b67bdeb6051"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:36.734375Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.ztree.exhide-3.3.min.js"
+   text-time="2014-07-04T02:00:36.812500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="a92ae9565fb7746a54cc8b838d513d90"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:36.734375Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.ztree.all-3.3.min.js"
+   text-time="2014-07-04T02:00:36.812500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="58cc8c5d0dc3928fb1a6920108d42595"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:36.734375Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.ztree.core-3.3.min.js"
+   text-time="2014-07-04T02:00:36.828125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="fa11aaeaff55eb1f54a0473ba6742bc1"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:36.750000Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.ztree.core-3.5.js"
+   text-time="2014-07-04T02:00:36.828125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="eb32d036e896ecfe860123e2533f668a"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:36.750000Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.ztree.excheck-3.3.js"
+   text-time="2014-07-04T02:00:36.828125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="84e2f2260cbcd8ac510af2244ae5047b"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:36.750000Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery-1.4.4.min.js"
+   text-time="2014-07-04T02:00:36.843750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="73a9c334c5ca71d70d092b42064f6476"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:36.765625Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.ztree.excheck-3.3.min.js"
+   text-time="2014-07-04T02:00:36.843750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="a1d9e0685ea430b35e1b47593a39b2d1"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:36.765625Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.ztree.excheck-3.5.js"
+   text-time="2014-07-04T02:00:36.859375Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="004f2ec4d1e9f415f52607971a949f18"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:36.765625Z"/>
+</wc-entries>

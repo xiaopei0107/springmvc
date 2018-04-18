@@ -1,0 +1,1427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1775"
+   name=""
+   committed-date="2014-07-03T00:44:45.369875Z"
+   url="svn://10.43.10.7/12549-%E7%9C%81%E7%8E%AF%E4%BF%9D%E5%8E%85%E6%8E%92%E6%B1%A1%E6%9D%83%E4%BA%A4%E6%98%93/01_%E5%BC%80%E5%8F%91%E5%BA%93/02_%E9%9B%86%E6%88%90%E5%8C%BA/01_%E6%BA%90%E4%BB%A3%E7%A0%81/ETMP/WebRoot/etmp/js/JQuery_zTree/api/cn"
+   last-author="lijun"
+   kind="dir"
+   uuid="7db4fa64-9716-f241-94ea-1da5f0743b9a"
+   repos="svn://10.43.10.7"
+   revision="5885"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.isHover.html"
+   text-time="2014-07-04T02:00:33.250000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="0f24509d1c70b81fea079e3a6a62381b"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.718750Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.getCheckStatus.html"
+   text-time="2014-07-04T02:00:33.250000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="7390c22a21b416ee8a00a1bd60463084"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.734375Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.view.nameIsHTML.html"
+   text-time="2014-07-04T02:00:33.265625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="a4d1f0be9cb68f3cadf6782ebc8ce76e"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.734375Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.treeId.html"
+   text-time="2014-07-04T02:00:33.265625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="b9b737e73d8e8241938868b68f343c4e"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.734375Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.checkedOld.html"
+   text-time="2014-07-04T02:00:33.265625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="c99f6aa04cfc9160170221ba36c1887b"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.734375Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.onAsyncError.html"
+   text-time="2014-07-04T02:00:33.281250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="dbe05238c7e35d9c784a7d7e746c6a16"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.734375Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.children.html"
+   text-time="2014-07-04T02:00:33.281250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="058d960b930d9f9cc301baab0abf071a"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.750000Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.data.key.title.html"
+   text-time="2014-07-04T02:00:33.281250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="fe7f1951f102d338547ad949f6766c3a"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.750000Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.beforeDblClick.html"
+   text-time="2014-07-04T02:00:33.296875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="8ff49c986a146860f00d5f064f82a456"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.750000Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.edit.showRemoveBtn.html"
+   text-time="2014-07-04T02:00:33.296875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="a8f445001c46c3f5ca32abe44c9e635c"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.750000Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.hideNode.html"
+   text-time="2014-07-04T02:00:33.296875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="799b8e03c569c6b921237e3de04deea3"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.750000Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.getParentNode.html"
+   text-time="2014-07-04T02:00:33.312500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="a04f96034845e20b88084343046eb9e0"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.765625Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.view.fontCss.html"
+   text-time="2014-07-04T02:00:33.312500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="0d92afaf06eba717b01e89ace7d6183b"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.765625Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.async.contentType.html"
+   text-time="2014-07-04T02:00:33.312500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="62a549118b213e466782e19114fc38dd"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.765625Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.getNodeByTId.html"
+   text-time="2014-07-04T02:00:33.328125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="be4d53462744a4a88c6a8336e6300ecd"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.765625Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.view.showTitle.html"
+   text-time="2014-07-04T02:00:33.328125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="cd61e56fcecb7f047ae9d629750867ad"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.781250Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.async.dataFilter.html"
+   text-time="2014-07-04T02:00:33.328125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="c8d30996065fe6ff1003ab5f54b1f878"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.781250Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.onDblClick.html"
+   text-time="2014-07-04T02:00:33.343750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="74c4154754e87e126495f112bcac5b43"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.781250Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.iconOpen.html"
+   text-time="2014-07-04T02:00:33.343750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="8ec121ae182b7cc8e8074dc048821816"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.781250Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.edit.drag.minMoveSize.html"
+   text-time="2014-07-04T02:00:33.343750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="c438616210b3673ab85d01f61718429e"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.781250Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.check_Child_State.html"
+   text-time="2014-07-04T02:00:33.359375Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="70d8975f8e99731879a7118b5efd0278"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.796875Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.onMouseDown.html"
+   text-time="2014-07-04T02:00:33.359375Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="fd695192c52cef1ec1d0b36388006720"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.796875Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.getNextNode.html"
+   text-time="2014-07-04T02:00:33.359375Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="56a3e010c807d652d10d868513c1248b"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.796875Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.click.html"
+   text-time="2014-07-04T02:00:33.375000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="45c10dfb23ab6506c801a4f153e18a06"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.796875Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.checked.html"
+   text-time="2014-07-04T02:00:33.375000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="f26411d9e10a7f16dcdd6394582cdbc6"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.796875Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.edit.drag.next.html"
+   text-time="2014-07-04T02:00:33.375000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="2d049a2f189b1495371678f8ec829346"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.796875Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.isHidden.html"
+   text-time="2014-07-04T02:00:33.390625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="bea20382495c1cff33e7e6c718402c57"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.812500Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.expandAll.html"
+   text-time="2014-07-04T02:00:33.390625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="1ea9bbee203521fd377e7366c3f6fff9"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.812500Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.getNodes.html"
+   text-time="2014-07-04T02:00:33.390625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="b9fb8cf550e72fdac46df0752771a190"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.812500Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.beforeCollapse.html"
+   text-time="2014-07-04T02:00:33.406250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="eafd7ae5dbba44e07ae350ac3cb38593"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.828125Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.onCollapse.html"
+   text-time="2014-07-04T02:00:33.406250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="a5e6fa1bb4fadaea42b8e6bca8e2f882"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.828125Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.selectNode.html"
+   text-time="2014-07-04T02:00:33.421875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="e16e3995d5e79b4b0cf7ee7d85f47629"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.843750Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.onRename.html"
+   text-time="2014-07-04T02:00:33.421875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="ac42467896c83dd303cf60ad20f8f2d0"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.843750Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.view.showLine.html"
+   text-time="2014-07-04T02:00:33.421875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="4327611117e07f4eb8f889c012739327"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.843750Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.async.enable.html"
+   text-time="2014-07-04T02:00:33.437500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="9732d3e8dc89cd5a24b371916c44262e"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.843750Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.check.chkStyle.html"
+   text-time="2014-07-04T02:00:33.437500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="7afdfab0907a567b376c0b81eddbe1c0"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.843750Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.edit.editNameSelectAll.html"
+   text-time="2014-07-04T02:00:33.437500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="bdd96ad412f591a89622213772e6dcbb"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.859375Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.check_Focus.html"
+   text-time="2014-07-04T02:00:33.453125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="b819a89a2743acb721d11d741391b717"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.859375Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.isAjaxing.html"
+   text-time="2014-07-04T02:00:33.453125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="206d1a7fb13a71e0ea0d04001f460541"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.859375Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.onCheck.html"
+   text-time="2014-07-04T02:00:33.453125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="2994efe0c72ad108e839adf5b85144ee"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.859375Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.onNodeCreated.html"
+   text-time="2014-07-04T02:00:33.468750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="92ce5408ccb4bcfed5470cddf1c14794"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.875000Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.view.removeHoverDom.html"
+   text-time="2014-07-04T02:00:33.468750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="dc98cc501e2b3873008e10289be365c0"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.875000Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.target.html"
+   text-time="2014-07-04T02:00:33.468750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="6cf1d17134891c2c37b27efaad6eaa69"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.875000Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.setChkDisabled.html"
+   text-time="2014-07-04T02:00:33.484375Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="85facc31232aaa1191850fc7c2e13294"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.875000Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.parentTId.html"
+   text-time="2014-07-04T02:00:33.484375Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="3196c96efa3041bdfbe8b8947833265a"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.875000Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.onRemove.html"
+   text-time="2014-07-04T02:00:33.484375Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="07c357c2b0f80aacdda0045cb32cb469"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.890625Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.beforeDrag.html"
+   text-time="2014-07-04T02:00:33.484375Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="63a81cda54624c785be9bb3e6394d9b9"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.890625Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.getChangeCheckedNodes.html"
+   text-time="2014-07-04T02:00:33.500000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="0787ea406ede139c6988275e07ea2e64"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.890625Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.editName.html"
+   text-time="2014-07-04T02:00:33.500000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="2940607c79ffdcb53c0c1bb49f1e6832"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.890625Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.showNode.html"
+   text-time="2014-07-04T02:00:33.500000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="acb3b76972a52b08b5d6e32efa5682ed"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.890625Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.beforeRightClick.html"
+   text-time="2014-07-04T02:00:33.515625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="ad86e28384b7551842c48aa358e04e4a"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.906250Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.view.showIcon.html"
+   text-time="2014-07-04T02:00:33.515625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="a8e7b5c79a9d1547fbb436c5a0c4f319"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.906250Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.edit.drag.isMove.html"
+   text-time="2014-07-04T02:00:33.515625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="6122eff4a665fa398a93c991b70d4a99"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.906250Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.data.keep.leaf.html"
+   text-time="2014-07-04T02:00:33.531250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="4ffafdca57e873739cf5132c5e30f954"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.906250Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.onDrag.html"
+   text-time="2014-07-04T02:00:33.531250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="d8966c3cd06535eed9418fda1946eaf7"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.921875Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.checkAllNodes.html"
+   text-time="2014-07-04T02:00:33.531250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="e740195cfddfe44bc2f664a9834c5567"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:31.921875Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.check.autoCheckTrigger.html"
+   text-time="2014-07-04T02:00:33.546875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="32bbaa669a4961d8e228bc445369d777"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.015625Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.edit.drag.isCopy.html"
+   text-time="2014-07-04T02:00:33.546875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="49721b483fac54e54bd19128fb38033e"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.250000Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.check.nocheckInherit.html"
+   text-time="2014-07-04T02:00:33.562500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="e1bc577b8a061d09fb6a739b133dc1e1"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.250000Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.edit.drag.autoOpenTime.html"
+   text-time="2014-07-04T02:00:33.562500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="282db83b3828e1b25726ab6c9c400f9a"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.265625Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.check.radioType.html"
+   text-time="2014-07-04T02:00:33.562500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="3b00180178cd9413039106ec3b996845"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.265625Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.beforeDragOpen.html"
+   text-time="2014-07-04T02:00:33.578125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="15e32b752b7398761d3731b490290606"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.265625Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.moveNode.html"
+   text-time="2014-07-04T02:00:33.578125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="58e5a4c1529d86aef6fd2e3a87b3a7b2"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.281250Z"/>
+<entry
+   committed-rev="1775"
+   name="fn.zTree._z.html"
+   text-time="2014-07-04T02:00:33.593750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="f1b2678933776a891b260dbf7b9d3e88"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.640625Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.getCheckedNodes.html"
+   text-time="2014-07-04T02:00:33.578125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="efefee4e36ab6c7d7a24db45ba2c0780"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.625000Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.copyNode.html"
+   text-time="2014-07-04T02:00:33.593750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="0379b126816048a12ab0ca649512878c"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.640625Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.open.html"
+   text-time="2014-07-04T02:00:33.609375Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="f09ceb3199b73f005e60c87107c6deb5"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.640625Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.url.html"
+   text-time="2014-07-04T02:00:33.609375Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="713922e270dfff6521dc172b33e4f1cf"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.656250Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.updateNode.html"
+   text-time="2014-07-04T02:00:33.609375Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="b8692f7da41a804d4a5826fd99ae4a70"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.656250Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.nocheck.html"
+   text-time="2014-07-04T02:00:33.625000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="9be97abf618911fa11758c2b719079ee"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.671875Z"/>
+<entry
+   committed-rev="1775"
+   name="fn.zTree.getZTreeObj.html"
+   text-time="2014-07-04T02:00:33.625000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="44b1a0a04fdad8c68d1aba7e489dfdce"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.656250Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.beforeClick.html"
+   text-time="2014-07-04T02:00:33.640625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="e09a41c4829022d7ec0f5209cf807d86"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.687500Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.beforeEditName.html"
+   text-time="2014-07-04T02:00:33.640625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="47843c10fc6aa4fc262c30e3a8773816"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.703125Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.view.addHoverDom.html"
+   text-time="2014-07-04T02:00:33.656250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="827f4bd059f8eb4132377d0a44afad83"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.703125Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.iconClose.html"
+   text-time="2014-07-04T02:00:33.656250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="860ac9f8628a78eb8ad5db2eb0f578a7"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.703125Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.view.addDiyDom.html"
+   text-time="2014-07-04T02:00:33.671875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="b5efb94220d895b5faacc99222a51fc5"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.718750Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.onExpand.html"
+   text-time="2014-07-04T02:00:33.656250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="cb86f283dd039de6f0aa85f6f11777f2"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.718750Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.editNameFlag.html"
+   text-time="2014-07-04T02:00:33.687500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="21a2c2df5385129db33e9f16a79b97bf"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.734375Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.reAsyncChildNodes.html"
+   text-time="2014-07-04T02:00:33.687500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="b7a18660cb0dc6f94946ec06bce5dfe7"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.734375Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.edit.drag.inner.html"
+   text-time="2014-07-04T02:00:33.687500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="11313ce54fba93df0eff58abce816a2d"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.734375Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.edit.drag.prev.html"
+   text-time="2014-07-04T02:00:33.703125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="d8b69d583c94576a571a62e413def5d2"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.750000Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.icon.html"
+   text-time="2014-07-04T02:00:33.703125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="cb006f0b57890303b2cbfcdecb0f892b"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.750000Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.beforeDrop.html"
+   text-time="2014-07-04T02:00:33.718750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="cb135a83eacae24739118eec519eb6b7"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.765625Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.chkDisabled.html"
+   text-time="2014-07-04T02:00:33.718750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="d53cc27d36d68189a193f5a9e4fb9e0d"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.765625Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.treeObj.html"
+   text-time="2014-07-04T02:00:33.718750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="60f5e83c720792c23c43be32461a594b"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.781250Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.beforeAsync.html"
+   text-time="2014-07-04T02:00:33.734375Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="a984f591b29c3a95608173ff85a1c107"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.781250Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.onDrop.html"
+   text-time="2014-07-04T02:00:33.734375Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="3d9bce29303bcdaefb65431c36bf0771"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.796875Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.zAsync.html"
+   text-time="2014-07-04T02:00:33.750000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="d45bb071508a12154038a552a36aec41"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.796875Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.halfCheck.html"
+   text-time="2014-07-04T02:00:33.750000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="5d80e07f58f2bd2b23b92fd982ac6f34"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.796875Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.removeChildNodes.html"
+   text-time="2014-07-04T02:00:33.765625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="b761768d469321272717d2c801ecfbc4"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.796875Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.check.enable.html"
+   text-time="2014-07-04T02:00:33.765625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="682b398fb3014969714675622657ab71"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.812500Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.cancelEditName.html"
+   text-time="2014-07-04T02:00:33.765625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="6136bbaffcf32e03ae36933b7c754b02"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.812500Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.async.autoParam.html"
+   text-time="2014-07-04T02:00:33.781250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="4cb81453573b36c4114461c4fad82bd1"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.812500Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.refresh.html"
+   text-time="2014-07-04T02:00:33.781250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="fe32567a9d6abe43a72270253f5012f7"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.812500Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.tId.html"
+   text-time="2014-07-04T02:00:33.796875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="acc277adba812abe04c9610843d7d9e0"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.828125Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.name.html"
+   text-time="2014-07-04T02:00:33.781250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="0e5d5e78e2a7278b94cd95f4e81462e4"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.812500Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.edit.enable.html"
+   text-time="2014-07-04T02:00:33.812500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="b82e923a3109510a483df756ced14d47"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.843750Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.data.simpleData.rootPId.html"
+   text-time="2014-07-04T02:00:33.812500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="5fb3968213ce24013df4d7a1ff5ec24c"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.843750Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.removeNode.html"
+   text-time="2014-07-04T02:00:33.796875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="4132c77c71a23a9cfdbcffd43290f384"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.828125Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.edit.drag.maxShowNodeNum.html"
+   text-time="2014-07-04T02:00:33.812500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="6e9a9df1e505290881e5a4dfbdb56b91"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.843750Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.isParent.html"
+   text-time="2014-07-04T02:00:33.828125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="006491b720e93187f4f5b3f6d447a30f"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.843750Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.async.url.html"
+   text-time="2014-07-04T02:00:33.828125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="ee0fe929357dbed7aad48fbaf5c6e48a"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.843750Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.edit.drag.borderMin.html"
+   text-time="2014-07-04T02:00:33.843750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="17a289c6be3664cb7a402fa7a71040d7"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.859375Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.edit.removeTitle.html"
+   text-time="2014-07-04T02:00:33.843750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="9dfe968e095bf70e633fa26a5f63e032"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.859375Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.data.keep.parent.html"
+   text-time="2014-07-04T02:00:33.859375Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="ce248b30decedce567c95a62ae5fd02f"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.859375Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.getNodeIndex.html"
+   text-time="2014-07-04T02:00:33.843750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="1b719e5b16802178f4501a3c4ac3cfd8"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.859375Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.beforeRename.html"
+   text-time="2014-07-04T02:00:33.875000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="60658c0bc907735cadc158786c13b80f"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.875000Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.onMouseUp.html"
+   text-time="2014-07-04T02:00:33.859375Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="cb3e87709d7eac4cf0c816b0b1373068"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.875000Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.async.dataType.html"
+   text-time="2014-07-04T02:00:33.890625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="4ce5ef604480cc96aba48be1cf9da8b0"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.875000Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.data.key.children.html"
+   text-time="2014-07-04T02:00:33.875000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="b3613e551bf9fd414f1dfb99302e1c54"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.875000Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.addNodes.html"
+   text-time="2014-07-04T02:00:33.890625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="6585c3a48d056297c5b60592bce927b8"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.890625Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.getSelectedNodes.html"
+   text-time="2014-07-04T02:00:33.890625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="c1dea0775dfb8ba976dd49738191f2fd"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.875000Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.checkNode.html"
+   text-time="2014-07-04T02:00:33.906250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="d59258047af845ef59b83b202a396516"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.890625Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.check.chkboxType.html"
+   text-time="2014-07-04T02:00:33.921875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="70f1e0171dc0edb16f8a001fc006450c"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.906250Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.edit.drag.autoExpandTrigger.html"
+   text-time="2014-07-04T02:00:33.921875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="9f674820366a4bc54af63dbb63f31f02"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.890625Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.setEditable.html"
+   text-time="2014-07-04T02:00:33.906250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="e3d27f002a07b96d77d2c5aa194a4700"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.890625Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.isLastNode.html"
+   text-time="2014-07-04T02:00:33.937500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="af203379cf14ef68b8d23aa8c8269b83"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.906250Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.async.type.html"
+   text-time="2014-07-04T02:00:33.921875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="3912b35717c38d50c8f273631b3bf770"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.906250Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.onAsyncSuccess.html"
+   text-time="2014-07-04T02:00:33.953125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="cac173e796a5533768797b9fd9c7485f"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.906250Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.view.autoCancelSelected.html"
+   text-time="2014-07-04T02:00:33.968750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="bdf74a965bb4ba5d6779beca9a5164be"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.921875Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.edit.showRenameBtn.html"
+   text-time="2014-07-04T02:00:33.953125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="763fa6acaed25c4a34ca56738a34ecec"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.921875Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.data.key.url.html"
+   text-time="2014-07-04T02:00:33.968750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="eb4d85ef4f8e1cf1de4f9e460ab337fa"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:32.921875Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.getNodesByParamFuzzy.html"
+   text-time="2014-07-04T02:00:33.968750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="e2d03d81cf3e90c596d0428dce99958f"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.109375Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.iconSkin.html"
+   text-time="2014-07-04T02:00:33.984375Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="41c93fb701de798eee75e4489e406491"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.109375Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.view.expandSpeed.html"
+   text-time="2014-07-04T02:00:34.000000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="ca561aef9fbbbeee40e9da8bbbb4d04e"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.109375Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.hideNodes.html"
+   text-time="2014-07-04T02:00:33.984375Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="e6200882fc88942c1a37f41228ae0ff4"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.109375Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.beforeRemove.html"
+   text-time="2014-07-04T02:00:34.000000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="2c1ec0afd366c6df61839e57a6e3800e"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.125000Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.cancelSelectedNode.html"
+   text-time="2014-07-04T02:00:34.000000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="6e27e3d5798217b106053f57de6e9e5b"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.125000Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.onClick.html"
+   text-time="2014-07-04T02:00:34.015625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="7086b83654b1d70a9a1dbfd7aa4cc939"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.125000Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.async.otherParam.html"
+   text-time="2014-07-04T02:00:34.015625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="990816bb4fea603fed0f42ba65b743e2"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.125000Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.data.key.name.html"
+   text-time="2014-07-04T02:00:34.015625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="2d2e2d447ebe50914ff50640cb79e479"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.125000Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.view.dblClickExpand.html"
+   text-time="2014-07-04T02:00:34.031250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="cecd7065681c69282095c5548366d556"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.140625Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.data.simpleData.enable.html"
+   text-time="2014-07-04T02:00:34.031250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="5278a22189615e5c15becaa306fd0be7"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.140625Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.getNodesByFilter.html"
+   text-time="2014-07-04T02:00:34.046875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="9bb50a0069b6ece476612669b47d63ca"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.140625Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.isFirstNode.html"
+   text-time="2014-07-04T02:00:34.046875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="aedc110e684f60f94e2eac3fc55942b0"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.140625Z"/>
+<entry
+   committed-rev="1775"
+   name="fn.zTree.init.html"
+   text-time="2014-07-04T02:00:34.062500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="d95afc922545bc77619413bdd9fa3093"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.140625Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.transformToArray.html"
+   text-time="2014-07-04T02:00:34.062500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="be2b434662f8e25d73ed065d35f4d357"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.156250Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.transformTozTreeNodes.html"
+   text-time="2014-07-04T02:00:34.062500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="39b092c2a5e2c4b2c459140ba320d0bb"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.156250Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.expandNode.html"
+   text-time="2014-07-04T02:00:34.078125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="646c804a318601f6f1af6b134f343b9d"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.156250Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.edit.renameTitle.html"
+   text-time="2014-07-04T02:00:34.078125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="aa9cdd89304bf2528b0506002b005049"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.156250Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.beforeMouseDown.html"
+   text-time="2014-07-04T02:00:34.093750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="09e3b4f0454175feac4a8b120e4e90c3"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.171875Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.level.html"
+   text-time="2014-07-04T02:00:34.093750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="90a9a0e2965b042ae40a16e9878d0bc4"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.171875Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.data.simpleData.idKey.html"
+   text-time="2014-07-04T02:00:34.109375Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="b4879d87ecad5a72ff6b67eca26d422e"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.171875Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.getNodeByParam.html"
+   text-time="2014-07-04T02:00:34.109375Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="81470d7eef413d41f57b3f5743547e2b"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.171875Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.beforeMouseUp.html"
+   text-time="2014-07-04T02:00:34.109375Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="86f8a5c60c58b2cce6b927bc4d2b401a"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.187500Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.onRightClick.html"
+   text-time="2014-07-04T02:00:34.125000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="1bac501c75902f7e7f8fff142729c8c4"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.187500Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.view.selectedMulti.html"
+   text-time="2014-07-04T02:00:34.125000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="f913d585cf4b4164e4b627fe95fe98f2"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.187500Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.diy.html"
+   text-time="2014-07-04T02:00:34.125000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="a9b7836a7a68d56a30566312f6b853b3"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.203125Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.data.simpleData.pIdKey.html"
+   text-time="2014-07-04T02:00:34.140625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="c07992dad84c3565e5e5bbdcc06370f6"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.203125Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.showNodes.html"
+   text-time="2014-07-04T02:00:34.140625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="20c3c4cd53baada15e32462f31f7543c"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.203125Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.edit.drag.borderMax.html"
+   text-time="2014-07-04T02:00:34.156250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="21e8f0b1e1e9b8bddd0b4e3c3617fb82"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.203125Z"/>
+<entry
+   committed-rev="1775"
+   name="treeNode.getPreNode.html"
+   text-time="2014-07-04T02:00:34.156250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="8bf06f8735faea864d403ae19a3aaf74"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.203125Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.setting.html"
+   text-time="2014-07-04T02:00:34.187500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="2a1eb57245c62a1e04ae3016c57953fd"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.218750Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.data.key.checked.html"
+   text-time="2014-07-04T02:00:34.187500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="09c821a8b2c9078b8d8a855aa2276bb5"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.218750Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.beforeCheck.html"
+   text-time="2014-07-04T02:00:34.187500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="c4ceed86cd666997c737417f8b45dfc4"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.218750Z"/>
+<entry
+   committed-rev="1775"
+   name="zTreeObj.getNodesByParam.html"
+   text-time="2014-07-04T02:00:34.203125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="6556f6ad8ca882bdc29537052a020239"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.218750Z"/>
+<entry
+   committed-rev="1775"
+   name="setting.callback.beforeExpand.html"
+   text-time="2014-07-04T02:00:34.296875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="c838613694718000493a2adcf9022794"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:33.234375Z"/>
+</wc-entries>

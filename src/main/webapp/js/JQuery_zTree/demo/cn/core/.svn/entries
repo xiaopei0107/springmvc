@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1775"
+   name=""
+   committed-date="2014-07-03T00:44:45.369875Z"
+   url="svn://10.43.10.7/12549-%E7%9C%81%E7%8E%AF%E4%BF%9D%E5%8E%85%E6%8E%92%E6%B1%A1%E6%9D%83%E4%BA%A4%E6%98%93/01_%E5%BC%80%E5%8F%91%E5%BA%93/02_%E9%9B%86%E6%88%90%E5%8C%BA/01_%E6%BA%90%E4%BB%A3%E7%A0%81/ETMP/WebRoot/etmp/js/JQuery_zTree/demo/cn/core"
+   last-author="lijun"
+   kind="dir"
+   uuid="7db4fa64-9716-f241-94ea-1da5f0743b9a"
+   repos="svn://10.43.10.7"
+   revision="5885"/>
+<entry
+   committed-rev="1775"
+   name="async.html"
+   text-time="2014-07-04T02:00:30.640625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="68b15667128c537f41e2f9d0682c96f0"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.593750Z"/>
+<entry
+   committed-rev="1775"
+   name="expand.html"
+   text-time="2014-07-04T02:00:30.656250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="f6307c6131aedd6e885fa4f039c6db8f"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.593750Z"/>
+<entry
+   committed-rev="1775"
+   name="custom_icon.html"
+   text-time="2014-07-04T02:00:30.671875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="3989dd38f4f48beadbbae6831c436060"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.609375Z"/>
+<entry
+   committed-rev="1775"
+   name="simpleData.html"
+   text-time="2014-07-04T02:00:30.671875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="8f96cedb01c7bdccec3ea6221acfc58a"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.609375Z"/>
+<entry
+   committed-rev="1775"
+   name="noline.html"
+   text-time="2014-07-04T02:00:30.687500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="5e409bd57c4aa6d6521f59a0a961508f"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.609375Z"/>
+<entry
+   committed-rev="1775"
+   name="noicon.html"
+   text-time="2014-07-04T02:00:30.703125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="19783602c3fd83f1f3fa5169391c2a4b"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.625000Z"/>
+<entry
+   committed-rev="1775"
+   name="click.html"
+   text-time="2014-07-04T02:00:30.687500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="df7e192e1fa980ba52f49c4fbb39dba6"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.625000Z"/>
+<entry
+   committed-rev="1775"
+   name="async_fun.html"
+   text-time="2014-07-04T02:00:30.687500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="0bc58afb60bd4ab6e48264458d55151c"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.625000Z"/>
+<entry
+   committed-rev="1775"
+   name="update_fun.html"
+   text-time="2014-07-04T02:00:30.718750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="32db6266de992ba7f377e367df948799"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.640625Z"/>
+<entry
+   committed-rev="1775"
+   name="standardData.html"
+   text-time="2014-07-04T02:00:30.703125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="787139fb133042357e51262080b6d97d"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.640625Z"/>
+<entry
+   committed-rev="1775"
+   name="otherMouse.html"
+   text-time="2014-07-04T02:00:30.703125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="8174fbee743b34bd4699e3809b8ff558"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.625000Z"/>
+<entry
+   committed-rev="1775"
+   name="searchNodes.html"
+   text-time="2014-07-04T02:00:30.656250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="711ad5b5332a95b5a2bb9ced5e2f830e"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.593750Z"/>
+<entry
+   committed-rev="1775"
+   name="custom_font.html"
+   text-time="2014-07-04T02:00:30.656250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="b1a9c4b98e8047584e8ecd98217375f1"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.593750Z"/>
+<entry
+   committed-rev="1775"
+   name="url.html"
+   text-time="2014-07-04T02:00:30.671875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="2473a6b4ecb920bce2164f823760060e"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.609375Z"/>
+<entry
+   committed-rev="1775"
+   name="custom_iconSkin.html"
+   text-time="2014-07-04T02:00:30.703125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="b9962f9d352e89bd28211c146658fcaa"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.625000Z"/>
+</wc-entries>

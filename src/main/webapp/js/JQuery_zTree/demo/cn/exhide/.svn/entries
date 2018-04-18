@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1775"
+   name=""
+   committed-date="2014-07-03T00:44:45.369875Z"
+   url="svn://10.43.10.7/12549-%E7%9C%81%E7%8E%AF%E4%BF%9D%E5%8E%85%E6%8E%92%E6%B1%A1%E6%9D%83%E4%BA%A4%E6%98%93/01_%E5%BC%80%E5%8F%91%E5%BA%93/02_%E9%9B%86%E6%88%90%E5%8C%BA/01_%E6%BA%90%E4%BB%A3%E7%A0%81/ETMP/WebRoot/etmp/js/JQuery_zTree/demo/cn/exhide"
+   last-author="lijun"
+   kind="dir"
+   uuid="7db4fa64-9716-f241-94ea-1da5f0743b9a"
+   repos="svn://10.43.10.7"
+   revision="5885"/>
+<entry
+   committed-rev="1775"
+   name="radio.html"
+   text-time="2014-07-04T02:00:30.531250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="08edf9ab534b324069207b30be4e387c"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.515625Z"/>
+<entry
+   committed-rev="1775"
+   name="checkbox.html"
+   text-time="2014-07-04T02:00:30.531250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="f3cc43bf9e16dea075d0e950336262ef"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.515625Z"/>
+<entry
+   committed-rev="1775"
+   name="common.html"
+   text-time="2014-07-04T02:00:30.546875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="e91c76cc504af5a6fc5842d7bc550147"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.515625Z"/>
+</wc-entries>

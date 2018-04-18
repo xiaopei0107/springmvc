@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1775"
+   name=""
+   committed-date="2014-07-03T00:44:45.369875Z"
+   url="svn://10.43.10.7/12549-%E7%9C%81%E7%8E%AF%E4%BF%9D%E5%8E%85%E6%8E%92%E6%B1%A1%E6%9D%83%E4%BA%A4%E6%98%93/01_%E5%BC%80%E5%8F%91%E5%BA%93/02_%E9%9B%86%E6%88%90%E5%8C%BA/01_%E6%BA%90%E4%BB%A3%E7%A0%81/ETMP/WebRoot/etmp/js/jquery-easyui-1.3.2/plugins"
+   last-author="lijun"
+   kind="dir"
+   uuid="7db4fa64-9716-f241-94ea-1da5f0743b9a"
+   repos="svn://10.43.10.7"
+   revision="5885"/>
+<entry
+   committed-rev="1775"
+   name="jquery.splitbutton.js"
+   text-time="2014-07-04T02:00:15.734375Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="5dc78dd49a631945e01dc079c43f4db2"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.609375Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.numberspinner.js"
+   text-time="2014-07-04T02:00:15.750000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="f58f4d038f8e2ec497ec9d645ad914a2"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.625000Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.propertygrid.js"
+   text-time="2014-07-04T02:00:15.750000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="87cf3761d0b8f3321339b07fec6d2743"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.625000Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.parser.js"
+   text-time="2014-07-04T02:00:15.750000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="3b51df49172de37ddf4870c1162ce66a"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.625000Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.timespinner.js"
+   text-time="2014-07-04T02:00:15.765625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="e7241437247d7377e49c9a7cdf70ea8b"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.625000Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.panel.js"
+   text-time="2014-07-04T02:00:15.765625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="7eb6edbc55e76cdcef7d3c5fd9683331"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.625000Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.tree.js"
+   text-time="2014-07-04T02:00:15.765625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="8e5fe196e39654952240d9cedce0d952"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.640625Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.numberbox.js"
+   text-time="2014-07-04T02:00:15.781250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="f62c7983513cd6db3d786013fa500b5b"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.640625Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.accordion.js"
+   text-time="2014-07-04T02:00:15.781250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="96b5581df66f1f0a1679e36cc2990f1d"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.640625Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.validatebox.js"
+   text-time="2014-07-04T02:00:15.781250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="b38bcefb4b58d1190ca21e8e9f7e415b"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.640625Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.combogrid.js"
+   text-time="2014-07-04T02:00:15.796875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="6018c56bdb1fd996ed8a75c2ab57d844"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.640625Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.window.js"
+   text-time="2014-07-04T02:00:15.796875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="d4d49544c723a063f62ad94a666fe98f"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.656250Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.layout.js"
+   text-time="2014-07-04T02:00:15.812500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="f68e7c4dfc068dc7f901c6427e2964bd"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.656250Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.searchbox.js"
+   text-time="2014-07-04T02:00:15.812500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="1b8fe53f83a60f962379b5819f54f4fc"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.656250Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.datebox.js"
+   text-time="2014-07-04T02:00:15.812500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="3ff3a333349e1a9f6e8edd9f1b2191d2"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.656250Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.tabs.js"
+   text-time="2014-07-04T02:00:15.843750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="9078cc74daefa8d19c6ee59fb3f0d82c"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.671875Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.progressbar.js"
+   text-time="2014-07-04T02:00:15.828125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="c3802360f446d1d9a333209e18205c84"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.671875Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.pagination.js"
+   text-time="2014-07-04T02:00:15.828125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="58d30ccc715a79836a8a61c3d128c5ce"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.671875Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.linkbutton.js"
+   text-time="2014-07-04T02:00:15.828125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="83431e36377c1d7f1e76fee018bd0cdf"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.671875Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.combo.js"
+   text-time="2014-07-04T02:00:15.843750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="673c5923293b91363e59e2e9e1c05f73"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.687500Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.dialog.js"
+   text-time="2014-07-04T02:00:15.843750Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="4093a9897c45b03ab63a5a58fa33681b"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.671875Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.menubutton.js"
+   text-time="2014-07-04T02:00:15.859375Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="efee5843501022128ccbb83a59dfc6ed"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.687500Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.form.js"
+   text-time="2014-07-04T02:00:15.859375Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="23d3a43f35a6c9fbcee52fd3863f32af"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.687500Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.menu.js"
+   text-time="2014-07-04T02:00:15.859375Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="6f48942cac231ea159419ba2d3f40417"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.687500Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.datetimebox.js"
+   text-time="2014-07-04T02:00:15.875000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="3917d47eb38ade66345fc56f15ddf6e6"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.703125Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.treegrid.js"
+   text-time="2014-07-04T02:00:15.875000Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="88cd671abec02fd1beb91c2876d54e89"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.687500Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.messager.js"
+   text-time="2014-07-04T02:00:15.890625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="4cdd484fa22d24c5ca9e7ebd4513ac0a"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.703125Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.combobox.js"
+   text-time="2014-07-04T02:00:15.906250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="19247f7e596a93eee76ffb76aa17b491"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.718750Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.draggable.js"
+   text-time="2014-07-04T02:00:15.890625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="45c85db7825c5d95b0b178fd3bf4141b"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.703125Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.droppable.js"
+   text-time="2014-07-04T02:00:15.890625Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="1135f23c682d9b887c3c0ec23f76319c"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.703125Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.calendar.js"
+   text-time="2014-07-04T02:00:15.906250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="4ac85937504494a1eef6c17d564246b2"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.718750Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.spinner.js"
+   text-time="2014-07-04T02:00:15.906250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="079b74e1884545df4905f3d332b19773"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.718750Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.combotree.js"
+   text-time="2014-07-04T02:00:15.921875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="341ebe97b5f0e50b6ed982fe572fafe8"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.718750Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.datagrid.js"
+   text-time="2014-07-04T02:00:15.921875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="78b004baa4dc58c8217919918877df63"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.718750Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.resizable.js"
+   text-time="2014-07-04T02:00:15.921875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="be73ef2a641624f8d2bb3f7d965f98c9"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.734375Z"/>
+<entry
+   committed-rev="1775"
+   name="jquery.slider.js"
+   text-time="2014-07-04T02:00:15.937500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="3b5c7b5bb16e20dc2a83c586fca73b11"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:15.734375Z"/>
+</wc-entries>

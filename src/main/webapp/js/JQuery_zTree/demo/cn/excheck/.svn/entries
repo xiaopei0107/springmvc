@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1775"
+   name=""
+   committed-date="2014-07-03T00:44:45.369875Z"
+   url="svn://10.43.10.7/12549-%E7%9C%81%E7%8E%AF%E4%BF%9D%E5%8E%85%E6%8E%92%E6%B1%A1%E6%9D%83%E4%BA%A4%E6%98%93/01_%E5%BC%80%E5%8F%91%E5%BA%93/02_%E9%9B%86%E6%88%90%E5%8C%BA/01_%E6%BA%90%E4%BB%A3%E7%A0%81/ETMP/WebRoot/etmp/js/JQuery_zTree/demo/cn/excheck"
+   last-author="lijun"
+   kind="dir"
+   uuid="7db4fa64-9716-f241-94ea-1da5f0743b9a"
+   repos="svn://10.43.10.7"
+   revision="5885"/>
+<entry
+   committed-rev="1775"
+   name="checkbox_count.html"
+   text-time="2014-07-04T02:00:30.781250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="ecc8532d9c28be3ffc7d3aa19e6f90ce"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.734375Z"/>
+<entry
+   committed-rev="1775"
+   name="checkbox_fun.html"
+   text-time="2014-07-04T02:00:30.781250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="0bb476b6cc3b1811ee695f1efb4624e2"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.734375Z"/>
+<entry
+   committed-rev="1775"
+   name="checkbox_halfCheck.html"
+   text-time="2014-07-04T02:00:30.781250Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="9d34c431083088c6c3716d54a2a2182f"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.750000Z"/>
+<entry
+   committed-rev="1775"
+   name="radio.html"
+   text-time="2014-07-04T02:00:30.796875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="3bf323be2d6128bcc0845983ce8a33c0"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.750000Z"/>
+<entry
+   committed-rev="1775"
+   name="checkbox_nocheck.html"
+   text-time="2014-07-04T02:00:30.796875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="236673d71c5eee19b33d51e6bd3fa18b"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.750000Z"/>
+<entry
+   committed-rev="1775"
+   name="checkbox_chkDisabled.html"
+   text-time="2014-07-04T02:00:30.796875Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="3b0c7f971b5780a37b27e1bc5575982b"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.750000Z"/>
+<entry
+   committed-rev="1775"
+   name="checkbox.html"
+   text-time="2014-07-04T02:00:30.812500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="ebdba49ab37b21800bd2919863cd33b5"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.750000Z"/>
+<entry
+   committed-rev="1775"
+   name="radio_fun.html"
+   text-time="2014-07-04T02:00:30.812500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="a191035888726e8cbb4cd9e7735120dd"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.765625Z"/>
+<entry
+   committed-rev="1775"
+   name="radio_halfCheck.html"
+   text-time="2014-07-04T02:00:30.812500Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="5ba11cb69b40e020064aa944b0799e39"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.765625Z"/>
+<entry
+   committed-rev="1775"
+   name="radio_nocheck.html"
+   text-time="2014-07-04T02:00:30.828125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="25ec5932572a9da9d8ac3ad7d82ed3da"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.765625Z"/>
+<entry
+   committed-rev="1775"
+   name="radio_chkDisabled.html"
+   text-time="2014-07-04T02:00:30.828125Z"
+   committed-date="2014-07-03T00:44:45.369875Z"
+   checksum="8a6575baa6173cabbf4185f99a67977f"
+   last-author="lijun"
+   kind="file"
+   prop-time="2014-07-04T02:00:30.765625Z"/>
+</wc-entries>
